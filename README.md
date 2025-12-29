@@ -7,7 +7,7 @@ My work bridges **data analysis**, **forecasting**, and **automation**, enabling
 ---
 ## 🌟 Featured Projects
 
-### 🌞 [Advanced Solar Power Forecasting] (https://github.com/Mahdi-Darvishi9/Advanced-Solar-Power-Forecasting)(#)
+### 🌞 [Advanced Solar Power Forecasting](https://github.com/Mahdi-Darvishi9/Advanced-Solar-Power-Forecasting)(#)
 **Type:** Machine Learning | Research | Renewable Energy  
 Developed a hybrid ML model (XGBoost + LightGBM + Linear Regression) that eliminates costly irradiance data from the solar power forecasting process — achieving **MAE = 0.033** and **R² = 0.693**, matching the accuracy of traditional models at a fraction of the cost.  
 📘 *Published at Winter Simulation Conference 2024*  
@@ -22,7 +22,7 @@ Analyzed weather and booking data of Nottingham Padel Centre to evaluate market 
 
 ---
 
-### 🧳 [AI-Powered Travel Automation Tool] (https://github.com/Mahdi-Darvishi9/FinestTravel_Email_Automation_POC)(#)
+### 🧳 [AI-Powered Travel Automation Tool](https://github.com/Mahdi-Darvishi9/FinestTravel_Email_Automation_POC)(#)
 **Type:** Python Automation | GUI Development  
 Developed a desktop AI tool for Finest Travel Africa that automates trip-offer generation from client emails. The app extracts trip data, generates Excel reports, and saves staff hours of manual work.  
 🧰 Tools: Python (Tkinter, Regex, OpenPyXL), GUI Design, Process Automation 
