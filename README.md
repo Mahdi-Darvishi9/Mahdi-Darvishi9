@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mahdi Darvishi  
-### Data Analyst | Machine Learning expert | Data-Driven Business Optimization through Forecasting, Automation, and Strategic Analysis
+### Data Analyst | Research Analyst | Data-Driven Business Optimization through Forecasting, Automation, and Strategic Analysis
 
 Welcome to my GitHub portfolio!  
 I’m passionate about transforming complex datasets into actionable insights that drive smarter business and environmental decisions.  
