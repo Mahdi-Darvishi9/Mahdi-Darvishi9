@@ -2,15 +2,16 @@
 ### Data Analyst | Research Analyst | Data-Driven Business Optimization through Forecasting, Automation, and Strategic Analysis
 
 Welcome to my GitHub portfolio!  
-I’m passionate about transforming complex datasets into actionable insights that drive smarter business and environmental decisions.  
-My work bridges **data analysis**, **forecasting**, and **automation**, enabling organizations to optimize operations, reduce costs, and make confident, data-driven choices.
+I’m passionate about transforming complex datasets into actionable insights that drive smarter business Descisions.  
+my work focuses on identifying real-world problems, analyzing root causes, and designing structured, data-driven solutions.
 ---
 ## 🌟 Featured Projects
 
 ### 🌞 [Advanced Solar Power Forecasting](https://github.com/Mahdi-Darvishi9/Advanced-Solar-Power-Forecasting)(#)
-**Type:** Machine Learning | Research | Renewable Energy  
-Developed a hybrid ML model (XGBoost + LightGBM + Linear Regression) that eliminates costly irradiance data from the solar power forecasting process — achieving **MAE = 0.033** and **R² = 0.693**, matching the accuracy of traditional models at a fraction of the cost.  
-📘 *Published at Winter Simulation Conference 2024*  
+**Type:** Real-world problem solving | Research | Renewable Energy  
+I led a full research project from concept to publication. I identified a key challenge in solar power forecasting, conducted an extensive literature review, collected and analyzed meteorological data, and developed a data-driven solution that eliminated dependence on costly irradiance sensors. This experience gave me a strong foundation in research methodology, data management, and academic communication.
+📘 *Published at Winter Simulation Conference 2024* 
+Institute of Electrical and Electronics Engineers (IEEE) · Jan 20, 2025 [Show publication](https://ieeexplore.ieee.org/document/10838865)
 🧰 Tools: Python, Scikit-learn, Pandas, XGBoost, LightGBM, Feature Engineering  
 
 ---
