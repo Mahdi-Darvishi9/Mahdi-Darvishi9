@@ -7,6 +7,13 @@ my work focuses on identifying real-world problems, analyzing root causes, and d
 ---
 ## 🌟 Featured Projects
 
+### 📊 [Sales Compensation Analytics & Commission Modeling](https://github.com/Mahdi-Darvishi9/sales-compensation-analytics-case-study)
+**Type:** Sales Compensation | Excel Financial Modeling | Data Reconciliation | Hiring Case Study  
+Developed a formula-driven Excel compensation model for **80 sales representatives**, integrating CRM, HR, operational activity, billing, and account ownership data. Built validation controls and an exceptions ledger to identify data-quality risks, including **$43,052.51 in modeled potential commission overstatement** from incorrect joins—not an actual overpayment. Evaluated a proposed accelerator change with a **$1,632.45 modeled commission-cost increase**.  
+🧰 Tools: Microsoft Excel, Multi-Sheet Formulas, Data Validation, Financial Modeling, Scenario Analysis  
+
+---
+
 ### 🌞 [Advanced Solar Power Forecasting](https://github.com/Mahdi-Darvishi9/Advanced-Solar-Power-Forecasting)(#)
 **Type:** Real-world problem solving | Research | Renewable Energy  
 I led a full research project from concept to publication. I identified a key challenge in solar power forecasting, conducted an extensive literature review, collected and analyzed meteorological data, and developed a data-driven solution that eliminated dependence on costly irradiance sensors. This experience gave me a strong foundation in research methodology, data management, and academic communication.
